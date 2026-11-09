@@ -1,0 +1,11 @@
+{
+  "name": "nexora-ultimate-ecosystem",
+  "version": "4.0.0",
+  "description": "Ultimate Smart Learning Ecosystem for JKBOSE and CBSE by Mohammad Mannan Mir and Unsa",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Deployable on GitHub Pages / Static Hosting'"
+  },
+  "author": "Mohammad Mannan Mir",
+  "license": "MIT"
+}
